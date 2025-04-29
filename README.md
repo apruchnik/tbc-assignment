@@ -9,6 +9,7 @@ Frontend and backend of the car simulator: Go to each directory and run npm inst
 start. Open your browser to localhost:3000 (the server the frontend is running on) to view and interact with the
 simulator graphs.
 With more time, I would have added an animation to the graphs and adjustable parameters via the web UI.
+
 ---
 
 ### Time Complexity of sequence_calculator
@@ -31,6 +32,7 @@ NOTE: The other solution in the file utilizes the characteristic equation of the
 geometric formula. Running this program has a computational complexity of O(1), as it is simply running a math equation
 with exponents based on n. Technically, the exponents make the runtime a little longer, but there is only one line of
 code so it would still classify computationally as O(1).
+
 ---
 
 ### Challenges
